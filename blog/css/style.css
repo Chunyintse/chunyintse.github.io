@@ -196,7 +196,7 @@ figcaption {
   box-shadow: 0.25rem 0.25rem 0.125rem #313C40;
 }
 .subsection figure {
-    margin: 0.25rem;
+    margin: 0.2rem;
 }
 
 /* ------ LINKS ------ */
@@ -207,17 +207,18 @@ a {
 
 button {
     border: 0.125rem solid darkred;
-    background: none;
-    background color: darkred;
+    background: none,
+    background color: none;
     padding: .625rem 1.25rem;
     border-radius: 0.5rem;
     font-size: 2rem;
     font-family: "montserrat";
     color:darkred;
-    margin-top: 1rem;
+    margin-top: 2rem;
+   
 }
 
 .expand {
     text-decoration: none;
-    font-size: 0.35rem;
+    font-size: 0.30rem;
 }
